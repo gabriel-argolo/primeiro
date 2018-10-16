@@ -26,7 +26,6 @@ public class Main {
 
 		ArvoreBusca<Integer, String> a = new ArvoreBusca<>();
 
-		a.adicionar(20, "20");
 		a.adicionar(19, "19");
 		a.adicionar(25, "25");
 		a.adicionar(18, "18");
